@@ -58,3 +58,26 @@ int main()
     return 0;
 }
 ```
+---
+The Result
+```
+$gcc -o main *.c
+$main
+Hello, World!
+display_1D
+1 
+2 
+3 
+display_2D
+1 2
+3 4
+5 6
+display_3D
+1 2
+3 4
+5 6
+
+7 8
+9 10
+11 12
+```
